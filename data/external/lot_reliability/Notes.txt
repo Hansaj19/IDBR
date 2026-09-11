@@ -1,0 +1,2 @@
+The first 14 samples are from the qualified lot (cell 1-14).
+The last 9 samples are from different subsequent lots (cell 15-23). 

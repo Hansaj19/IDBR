@@ -1,0 +1,9 @@
+metric,value
+degradation_rmse,0.20316192507743835
+degradation_mae,0.17046929895877838
+identity_eer,0.08025974025974024
+identity_auc,0.9495122280317084
+top1_retrieval_accuracy,0.7527950310559006
+baseline_rmse,0.22341623902320862
+baseline_mae,0.19428309798240662
+used_synthetic_data,False
