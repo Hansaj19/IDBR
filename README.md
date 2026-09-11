@@ -193,22 +193,3 @@ Each configuration is logged under `experiments/ablation/` and aggregated into `
 ## License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## Citation
-
-If you use IDBR in academic work, please cite the original paper:
-```
-@article{malhotra2024idbr,
-  title={Identity‑Preserving Deep Learning for Lithium‑Ion Battery Prognostics and Telemetry Security},
-  author={Malhotra, Jhalak and Patidar, ...},
-  journal={Proceedings of ...},
-  year={2024},
-  volume={...},
-  pages={...}
-}
-```
----
-
-*This README was automatically generated and updated to provide a GitHub‑friendly overview of the IDBR project.*
