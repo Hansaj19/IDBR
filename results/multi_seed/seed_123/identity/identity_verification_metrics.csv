@@ -1,0 +1,8 @@
+metric,value
+EER,0.12836257309941523
+AUC,0.9457978523306317
+threshold_at_EER,0.8455513477325439
+FAR_at_threshold,0.1283625730994152
+FRR_at_threshold,0.1286549707602339
+n_genuine_scores,684
+n_impostor_scores,3420

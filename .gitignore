@@ -15,7 +15,6 @@ venv.bak/
 # Project-specific ignored folders
 data/
 checkpoints/
-results/
 experiments/
 
 # OS generated files
