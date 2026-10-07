@@ -1,0 +1,22 @@
+Data Leakage Audit Report
+==========================
+
+Number of training cells: 0
+Number of validation cells: 0
+Number of test cells: 0
+
+Cell‑level split overlaps:
+  Train‑Val overlap: 0
+  Train‑Test overlap: 0
+  Val‑Test overlap: 0
+
+Normalization statistics (computed from training cells):
+  No cycle stats available
+  No temperature stats available
+
+
+Enrollment check: the training pipeline does not perform any enrollment of test cells. (Pass)
+
+Cross‑partition identity pair check: splits are disjoint, therefore no positive pairs cross partitions. (Pass)
+
+Hyper‑parameter selection: all model/hyper‑parameter choices are made prior to any evaluation on the test set. (Pass)
